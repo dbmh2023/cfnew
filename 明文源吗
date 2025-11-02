@@ -66,11 +66,11 @@ let backupIPs = [
 
 const directDomains = [
     { name: "cloudflare.182682.xyz", domain: "cloudflare.182682.xyz" }, { name: "speed.marisalnc.com", domain: "speed.marisalnc.com" },{ domain: "www.shopify.com" },
-    { domain: "visa.com.tw" }, { domain: "visa.com.hk" }, { domain: "visa.com.sg" },{ domain: "freeyx.cloudflare88.eu.org" }, { domain: "bestcf.top" }, { domain: "cdn.2020111.xyz" }, { domain: "cfip.cfcdn.vip" },
-    { domain: "cf.0sm.com" }, { domain: "cf.090227.xyz" }, { domain: "cf.zhetengsha.eu.org" }, { domain: "cloudflare.9jy.cc" },{ domain: "mfa.gov.ua" },
-    { domain: "cf.zerone-cdn.pp.ua" }, { domain: "cfip.1323123.xyz" }, { domain: "cnamefuckxxs.yuchen.icu" }, { domain: "cloudflare-ip.mofashi.ltd" },
+    { domain: "visa.com.tw" }, { domain: "visa.com.hk" }, { domain: "visa.com.sg" },{ domain: "freeyx.cloudflare88.eu.org" }, { domain: "bestcf.top" }, { domain: "cdn.2020111.xyz" }, 
+    { domain: "cf.0sm.com" }, { domain: "cf.090227.xyz" }, { domain: "cf.zhetengsha.eu.org" }, { domain: "skk.moe" },{ domain: "mfa.gov.ua" },
+    { domain: "cloudflare.182682.xyz" }, { domain: "cmcc.877774.xyz" }, { domain: "cnamefuckxxs.yuchen.icu" }, { domain: "cloudflare-ip.mofashi.ltd" },
     { domain: "saas.sin.fan" }, { domain: "openai.com" }, { domain: "cf.tencentapp.cn" }, { domain: "staticdelivery.nexusmods.com" },
-    { domain: "cdn.tzpro.xyz" }, { domain: "cf.877771.xyz" }, { domain: "xn--b6gac.eu.org" }
+    { domain: "cdn.tzpro.xyz" }, { domain: "bestcf.top" }, { domain: "xn--b6gac.eu.org" },{ domain: "pages.cloudflare.com" },
 ];
 
 const E_INVALID_DATA = atob('aW52YWxpZCBkYXRh');
